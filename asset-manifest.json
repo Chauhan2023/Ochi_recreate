@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ochi_recreate/static/css/main.2bb221e6.css",
+    "main.js": "/Ochi_recreate/static/js/main.409c32e0.js",
+    "static/js/592.86791f61.chunk.js": "/Ochi_recreate/static/js/592.86791f61.chunk.js",
+    "static/media/NeueMontreal-Regular.ttf": "/Ochi_recreate/static/media/NeueMontreal-Regular.7fb4297f5919edf1eaff.ttf",
+    "static/media/FoundersGrotesk-Semibold.woff": "/Ochi_recreate/static/media/FoundersGrotesk-Semibold.25743e2b562c879abaf4.woff",
+    "index.html": "/Ochi_recreate/index.html",
+    "main.2bb221e6.css.map": "/Ochi_recreate/static/css/main.2bb221e6.css.map",
+    "main.409c32e0.js.map": "/Ochi_recreate/static/js/main.409c32e0.js.map",
+    "592.86791f61.chunk.js.map": "/Ochi_recreate/static/js/592.86791f61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bb221e6.css",
+    "static/js/main.409c32e0.js"
+  ]
+}
